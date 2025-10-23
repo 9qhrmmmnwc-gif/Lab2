@@ -1,0 +1,12 @@
+{
+  "title": "Sleep & Study Survey",
+  "description": "This JSON stores survey data collected from Survey.py.",
+  "data": [
+    {"category": "Sleep", "value": "7"},
+    {"category": "Study", "value": "3"},
+    {"category": "Exercise", "value": "Yes"}
+  ],
+  "summary": {
+    "total_entries": 3
+  }
+}
